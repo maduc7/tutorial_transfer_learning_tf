@@ -20,6 +20,7 @@ My name is Marie Duc, I am PhD Student at the Werner Siemens Imaging Center in T
 - [WSIC](http://www.isct.uni-tuebingen.de/wsic/group/staff/staff-member?tx_isct_employee%5Baction%5D=detail&tx_isct_employee%5Bcontroller%5D=Employee&tx_isct_employee%5Bemployee%5D=137&cHash=d0b3ccf8ad851890bc4b1410dd9623db)
 - [LinkedIn](https://www.linkedin.com/in/marie-duc/)
 - [HYBRID2020](https://www.hybrid2020.eu/esr8.html)
+
 By any questions, requests, or anything else, please contact me!! :)
 
 ## License
