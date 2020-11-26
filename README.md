@@ -1,1 +1,1 @@
-# tutorial_transfer_learning_tf
+# Tutorial on using Transfer Learning in histopathology
