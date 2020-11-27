@@ -1,10 +1,12 @@
 # Tutorial on using Transfer Learning in histopathology
-The aim of this tutorial is to classify patches of colorectal tissues in 9 different classes using transfer learning.
+The aim of this tutorial is to classify patches of colorectal tissues in 9 different classes [1] using transfer learning.
 
 We will run 3 experiments in parallel in order to better understand the topic:
 - Using transfer learning & retraining all layers
 - Using transfer learning & freezing half of the layers
 - Training from scratch (= no transfer learning)
+
+[1] J. N. Kather et al. (2018). 100,000 histological images of human colorectal cancer and healthy tissue (Version v0.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1214456
 
 ## Tutorial
 The tutorial is implemented in tensorflow 2.0 in a jupyter notebook: `transfer_learning_classification.ipynb`
